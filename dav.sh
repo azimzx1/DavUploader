@@ -1,9 +1,5 @@
 #UJi_Coba_Gaess
 clear
-pkg install curl
-y
-pkg install figlet
-y
 figlet  WEBDAV SCRIPT UPLOADER
 echo "Masukan Target: "
 read -p ">>>> " Target
